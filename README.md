@@ -2,7 +2,7 @@
 
 Проект на React JS, использует TMDB (The Movie Database) API для получения данных по фильмам. Есть возможность просматривать трейлеры к фильмам. 
 
-## Deploy
+## Деплой
 
 Проект задеплоен с помощью Firebase https://netflixclone-f2655.firebaseapp.com/
 
