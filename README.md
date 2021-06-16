@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Netflix клон
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Проект на React JS, использует TMDB (The Movie Database) API, для получения данных по фильмам. Есть возможность просматривать трейлеры к фильмам. 
+
+# Deploy
+
+Проект задеплоен с помощью Firebase https://netflixclone-f2655.firebaseapp.com/
 
 ## Available Scripts
 
